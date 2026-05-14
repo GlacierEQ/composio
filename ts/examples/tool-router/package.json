@@ -30,9 +30,9 @@
     "@openai/agents": "^0.3.3",
     "ai": "catalog:",
     "dotenv": "^16.4.1",
-    "langchain": "^1.1.1",
+    "langchain": "^1.2.16",
     "ora": "^9.0.0",
-    "pnpm": "^10.21.0"
+    "pnpm": "^10.28.2"
   },
   "devDependencies": {
     "@types/bun": "^1.2.9",
