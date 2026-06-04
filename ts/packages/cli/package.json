@@ -69,7 +69,7 @@
     "ansis": "^4.1.0",
     "comment-json": "^4.2.5",
     "decompress": "^4.2.1",
-    "effect": "^3.16.16",
+    "effect": "^3.20.0",
     "indent-string": "^5.0.0",
     "open": "^10.2.0",
     "openapi-typescript": "^7.8.0",
