@@ -69,7 +69,7 @@
     "prettier": "^3.5.3",
     "semver": "^7.7.2",
     "tsx": "catalog:",
-    "turbo": "^2.5.0",
+    "turbo": "^2.9.14",
     "typescript-eslint": "^8.31.0",
     "vitest": "catalog:",
     "zod": "catalog:"
